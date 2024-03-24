@@ -18,7 +18,7 @@ export default function Home() {
         {/* SLOGAN */}
         <div className="w-full relative text-center mx-auto">
           <a
-            className="text-sm md:text-md bg-black rounded-lg text-white duration-150 mx-auto font-light px-4 py-2 hover:scale-105"
+            className="text-xs md:text-md bg-black rounded-lg text-white duration-150 mx-auto font-light px-4 py-2 hover:scale-105"
             href="https://beacons.ai/coccaaina"
           >
             Stay Elevated
