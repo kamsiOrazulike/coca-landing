@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Virgo01";
+  src: url("../fonts/virgo.ttf") format("truetype");
+}
+
+body {
+  font-family: "Virgo01", sans-serif;
+}
