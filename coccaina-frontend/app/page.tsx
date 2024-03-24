@@ -29,7 +29,7 @@ export default function Home() {
         <div className="h-full flex flex-col justify-center">
           <div className="relative my-2 mx-auto">
             <a
-              className="text-lg md:text-4xl bg-gray-200 text-black duration-150 mx-auto font-light px-4 py-2 hover:scale-105"
+              className="text-md md:text-3xl bg-gray-200 text-black duration-150 mx-auto font-light px-4 py-2"
               href="https://beacons.ai/coccaaina"
             >
               Coccaaina Directory
